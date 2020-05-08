@@ -1,1 +1,1 @@
-# IBM-Quantum-Computing-Challenge-2020
+Solutions for IBM Quantum Computing Challenge 2020
